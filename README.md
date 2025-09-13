@@ -50,3 +50,11 @@
     </td>
   </tr>
 </table>
+
+
+<picture>
+  <!-- dark-mode version (if produced) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiyamGupta-8787/SaiyamGupta-8787/main/output/github-contribution-snake.svg">
+  <!-- light-mode / fallback -->
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SaiyamGupta-8787/SaiyamGupta-8787/main/output/github-contribution-snake.svg" width="100%" style="max-width:900px; border-radius:12px;" />
+</picture>
