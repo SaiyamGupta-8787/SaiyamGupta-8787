@@ -24,11 +24,11 @@
 # 🔗 Connect
 <h1 align="center"></h1>
 <p align="center">
-  <a href="https://linktr.ee/saiyam" target="_blank">
+  <a href="https://linktr.ee/saiyamg369" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=white" 
+      src="https://img.shields.io/badge/Linktree-00C853?style=for-the-badge&logo=linktree&logoColor=black" 
       alt="Linktree Badge"
-      width="400"
+      width="200"
       height="80"
     >
   </a>
