@@ -1,10 +1,10 @@
-# 🧠About Me
+## 🧠About Me
 
 <p align="center">
   <img src="banner.gif" alt="Learning and building amazing things" width="100%" />
 </p>
 
-# 🛠️ Skills / Tech Stack
+## 🛠️ Skills / Tech Stack
 
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=mit&logoColor=white)](https://opensource.org/licenses/MIT)&nbsp;
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiyamGupta-8787&layout=compact&theme=dark&langs_count=6" alt="Top Languages" width="40%" style="max-width:380px;" />
 </p>
 
-# 🔗 Connect
+## 🔗 Connect
 <h1 align="center"></h1>
 <p align="center">
   <a href="https://linktr.ee/saiyamg369" target="_blank">
@@ -33,3 +33,20 @@
     >
   </a>
 </p>
+
+## 🌟 Favorite Quote
+<table align="center" width="100%" style="max-width: 900px; margin: auto;">
+  <tr>
+    <!-- Left: Your GIF -->
+    <td width="50%" align="center" style="padding: 10px;">
+      <img src="quote.gif" width="100%" style="max-width: 450px; border-radius: 10px;" alt="Inspiring GIF" />
+    </td>
+    <!-- Right: Quote Text -->
+    <td width="50%" align="center" style="padding: 10px;">
+      <h2 style="color: yellow; font-family: 'Segoe UI', sans-serif;">Saitama</h2>
+      <p style="font-size:18px; color:white; font-style:italic; max-width:400px;">
+        "Human beings are strong because we have the ability to change ourselves"
+      </p>
+    </td>
+  </tr>
+</table>
